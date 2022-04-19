@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "note-auth-backend", "note-auth-backend.csproj", "{FA3AF6D1-B168-4088-B52A-EAFA710C331B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3AF6D1-B168-4088-B52A-EAFA710C331B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3AF6D1-B168-4088-B52A-EAFA710C331B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3AF6D1-B168-4088-B52A-EAFA710C331B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3AF6D1-B168-4088-B52A-EAFA710C331B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8A18DB-69F7-414D-91CB-CBFF6B4F705E}
+	EndGlobalSection
+EndGlobal

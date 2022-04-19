@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rqmSRqGUfmsksY/3YQFhQkiKRbLycYj1thicsZ1/Ros=",
+  "Source": "note-auth-backend",
+  "BasePath": "_content/note-auth-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

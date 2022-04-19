@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FA3AF6D1-B168-4088-B52A-EAFA710C331B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AuthDBContext.cs">
+    <Files>
+      <File FileName="Data/AuthDBContext.cs" Line="19" Column="46" />
+      <File FileName="Data/User.cs" Line="18" Column="41" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="26" Column="52" />
+      <File FileName="appsettings.json" Line="3" Column="98" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="note-auth-backend" expanded="True">
+            <Node name="note-auth-backend" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="AuthDBContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.note-auth-backend PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
