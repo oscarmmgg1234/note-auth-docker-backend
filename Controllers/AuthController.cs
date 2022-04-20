@@ -55,6 +55,7 @@ namespace note_auth_backend.Controllers
                 newUser.First_Name = model.First_Name;
                 newUser.Last_Name = model.Last_Name;
                 newUser.gender = model.gender;
+                context.Attach<User>(newUser);
                 context.Add<User>(newUser);
                 
                 return Ok(context.SaveChanges());
