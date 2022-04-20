@@ -48,8 +48,8 @@ namespace todo_app
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller}/{action=Index}/{id?}");
+                    name: "Auth",
+                    pattern: "{controller}/{action}");
             });
 
            

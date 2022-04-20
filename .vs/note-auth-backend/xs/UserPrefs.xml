@@ -1,20 +1,35 @@
 ﻿<Properties StartupConfiguration="{FA3AF6D1-B168-4088-B52A-EAFA710C331B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AuthDBContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20220420165325_dbcontext.cs">
     <Files>
-      <File FileName="Data/AuthDBContext.cs" Line="19" Column="46" />
-      <File FileName="Data/User.cs" Line="18" Column="41" />
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Startup.cs" Line="26" Column="52" />
-      <File FileName="appsettings.json" Line="3" Column="98" />
+      <File FileName="Data/AuthDBContext.cs" Line="19" Column="76" />
+      <File FileName="Data/User.cs" Line="18" Column="9" />
+      <File FileName="Program.cs" />
+      <File FileName="Startup.cs" Line="46" Column="30" />
+      <File FileName="appsettings.json" Line="3" Column="12" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Dockerfile" />
+      <File FileName="Controllers/AuthController.cs" Line="26" Column="20" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Models/RegisterRequestModel.cs" Line="20" Column="1" />
+      <File FileName="Models/LoginRequestModel.cs" Line="6" Column="9" />
+      <File FileName="Migrations/AuthDBContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20220420165325_dbcontext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="note-auth-backend" expanded="True">
             <Node name="note-auth-backend" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="AuthDBContext.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20220420165325_dbcontext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>

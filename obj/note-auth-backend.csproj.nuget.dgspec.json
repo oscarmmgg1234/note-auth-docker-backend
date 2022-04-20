@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oscarmaldonado/Documents/github/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj": {}
+    "/Users/oscarmaldonado/Documents/github/note-app/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj": {}
   },
   "projects": {
-    "/Users/oscarmaldonado/Documents/github/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj": {
+    "/Users/oscarmaldonado/Documents/github/note-app/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oscarmaldonado/Documents/github/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj",
+        "projectUniqueName": "/Users/oscarmaldonado/Documents/github/note-app/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj",
         "projectName": "note-auth-backend",
-        "projectPath": "/Users/oscarmaldonado/Documents/github/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj",
+        "projectPath": "/Users/oscarmaldonado/Documents/github/note-app/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj",
         "packagesPath": "/Users/oscarmaldonado/.nuget/packages/",
-        "outputPath": "/Users/oscarmaldonado/Documents/github/note-app-auth-docker-service/note-auth-backend/obj/",
+        "outputPath": "/Users/oscarmaldonado/Documents/github/note-app/note-app-auth-docker-service/note-auth-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oscarmaldonado/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5eAUiwBxlbm4lUdEVGGyZehcYpJUrTGKJUrDggfbFFExYdjrptPvJFubTlj675ul6LDNuxHkWgCcQf4hCDQkYA==",
+  "dgSpecHash": "d8qwfRg+POMpbi9WD7C+zu9vFZUnqmth+wwRmDJS9zRhtXS0v/Pj2y5JJ9SMlrhcr/eUv8ftIC6BgbVwXIF0Sg==",
   "success": true,
-  "projectFilePath": "/Users/oscarmaldonado/Documents/github/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj",
+  "projectFilePath": "/Users/oscarmaldonado/Documents/github/note-app/note-app-auth-docker-service/note-auth-backend/note-auth-backend.csproj",
   "expectedPackageFiles": [
     "/Users/oscarmaldonado/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/oscarmaldonado/.nuget/packages/microsoft.entityframeworkcore/6.0.4/microsoft.entityframeworkcore.6.0.4.nupkg.sha512",

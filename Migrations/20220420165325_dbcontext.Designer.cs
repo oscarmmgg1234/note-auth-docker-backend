@@ -11,8 +11,8 @@ using note_auth_backend.Data;
 namespace note_auth_backend.Migrations
 {
     [DbContext(typeof(AuthDBContext))]
-    [Migration("20220419043219_DB")]
-    partial class DB
+    [Migration("20220420165325_dbcontext")]
+    partial class dbcontext
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -50,7 +50,7 @@ namespace note_auth_backend.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Users");
+                    b.ToTable("User");
                 });
 #pragma warning restore 612, 618
         }

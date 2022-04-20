@@ -17,6 +17,7 @@ namespace note_auth_backend.Data
 
         public bool gender { get; set; }
 
+       
         
     }
 }

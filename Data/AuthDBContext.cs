@@ -5,13 +5,13 @@ namespace note_auth_backend.Data
 {
     public class AuthDBContext : DbContext
     {
-        public IConfiguration _config;
+        IConfiguration _config;
         public AuthDBContext(IConfiguration configuration)
         {
             _config = configuration;
         }
         
-        DbSet<User> Users { get; set; }
+        public DbSet<User> User { get; set; }
 
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
